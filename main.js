@@ -1,3 +1,7 @@
+function showAlert() {
+  alert("Alert practice!");
+}
+
 let i = document.querySelector("input"),
   o = document.querySelector("output");
 
